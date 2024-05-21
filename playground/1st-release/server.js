@@ -38,6 +38,6 @@ sockets.on('connection', (socket) => {
     })
 })
 
-server.listen(3030, () => {
-    console.log(`> Server listening on port: 3030`)
+server.listen(3000, () => {
+    console.log(`> Novo Server  listening on port: 3000`)
 })
